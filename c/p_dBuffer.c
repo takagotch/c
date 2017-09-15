@@ -106,3 +106,4 @@ bool bufGet(Buffer* bufPtr, int* dataPtr, int sec)
 	
 	return true;
 }
+
