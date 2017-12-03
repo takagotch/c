@@ -1,0 +1,8 @@
+A probing strategy for a given quorum set can be represented by a binary 
+tree, which we call the {\bf probe tree}.
+The root of the probe tree is the element that is probed first.
+Unless vertex $v$ represents the last element to be probed,
+the left (right) child of a vertex $v$ is the element that
+is probed next when $v$ is operational (non-operational).
+Thus the path from the root to a vertex $v$ corresponds to the history 
+of the sequence of probes carried out so far.
