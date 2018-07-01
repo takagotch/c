@@ -14,3 +14,4 @@ https://www.bell-labs.com/usr/dmr/www/chist.html
 https://ja.wikipedia.org/wiki/C言語
 
 
+
